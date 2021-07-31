@@ -16,11 +16,11 @@ TOPIC MODELING
 |
 
 
-Week 2
+Some Articles
 ~~~~~~~~~~~~~~~~~~~~~
 
-* `JSON Lecture Notes <https://www.pg4e.com/lectures/06-JSON>`_
-* `Lecture Notes <https://www.pg4e.com/lectures/06-Python.php>`_
+* http://lamastex.org/courses/ScalableDataScience/index.shtml
+* http://lamastex.org/courses/ScalableDataScience/index.shtml
 
 
 

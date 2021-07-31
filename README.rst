@@ -6,11 +6,11 @@ TOPIC MODELING
 |
 
 
-:Authors: Tom Bresee
+:Author: Tom Bresee
 :Version: 0.3
 :University: Michigan
 :Purpose: Understanding Topic Modeling
-
+:Circus List: None
 
 |
 |

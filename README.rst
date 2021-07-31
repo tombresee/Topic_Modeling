@@ -21,6 +21,7 @@ Some Articles
 
 * http://lamastex.org/courses/ScalableDataScience/index.shtml
 * http://lamastex.org/courses/ScalableDataScience/index.shtml
+* https://en.wikipedia.org/wiki/Topic_model
 
 
 
